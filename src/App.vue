@@ -1,9 +1,9 @@
 <template>
-  <nav>
-    <router-link to="/">Главная</router-link> |
-	 <router-link to="/basket">Корзина</router-link>
-  </nav>
-  <router-view/>
+	<nav>
+	<router-link to="/">Главная</router-link> |
+	<router-link to="/basket">Корзина</router-link>
+	</nav>
+	<router-view/>
 </template>
 
 <style>
