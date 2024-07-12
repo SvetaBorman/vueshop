@@ -1,7 +1,7 @@
 <template>
-	<h1>Корзина</h1>
+
 	<TestBasket/>
-	<TestBasket/>
+	
 </template>
 
 <script>

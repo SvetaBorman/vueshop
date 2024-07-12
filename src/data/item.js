@@ -1,17 +1,19 @@
 const items = [
 	{
 		id:1,
-		name: "Number 1",
-		description: "Дополнительная более подробная информация о товаре",
-		price: 100,
-		category: "category1"
+		name: "Букет 1",
+		description: "Нежный букет из хризантем, герберов, гиперикума и гипсофилы",
+		price: 1900,
+		category: "category1",
+		img: 'букет1.jpg',
 	},
 	{
 		id:2,
-		name: "Number 2",
-		description: "Дополнительная более подробная информация о товаре",
-		price: 200,
-		category: "category2"
+		name: "Букет 2",
+		description: "Яркий букет из ромашек, роз, хризантем, подсолнухов и эустомы ",
+		price: 1800,
+		category: "category2",
+		img: 'букет2.jpg',
 	}
 ]
 
